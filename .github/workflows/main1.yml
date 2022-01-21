@@ -7,7 +7,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the aiswarya branch
   push:
     branches: 
-      'aiswarya'
+      [aiswarya]
   pull_request:
     branches: [ aiswarya ]
 
