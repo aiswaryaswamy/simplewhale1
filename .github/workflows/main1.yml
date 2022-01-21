@@ -1,7 +1,7 @@
 name: CI to Dockerhub
 on:
   push:
-    branches: [ aiswarya ]
+    branches: ' aiswarya '
   pull_request:
     branches: [ aiswarya ]
   workflow_dispatch:
